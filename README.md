@@ -1,1 +1,1 @@
-# 0_Numpy
+# Bu fayl numpy kutubxonasining asosiy manbalari
